@@ -1,5 +1,8 @@
 # :tada: 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/50962168/86959706-46c9aa80-c199-11ea-951e-c77c08295622.png">
-</div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=THEToilet&count_private=true&show_icons=true&theme=vue" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEToilet&show_icons=true&theme=vue" />
+</a>
