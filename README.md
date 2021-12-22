@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://atcoder.jp/users/toilet">
-  <img align="right" src="https://github-program-rate.herokuapp.com/svg?name=toilet" />
+  <img align="right" src="https://github-program-rate.herokuapp.com/svg?name=kyomuei" />
 </a>
